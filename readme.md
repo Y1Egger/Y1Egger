@@ -9,7 +9,7 @@ _____ ____  ____ _____ ____
         
 ```
 
-### Wirtschaftsinformatik (B.Sc.) · Künstliche Intelligenz · Python
+### Wirtschaftsinformatik (BSc) · Künstliche Intelligenz · Python
 
 </div>
 
