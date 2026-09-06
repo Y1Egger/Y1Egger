@@ -17,11 +17,14 @@ _____ ____  ____ _____ ____
 
 ### 🚀 Projekte
 
-**[HeurekA*](https://github.com/Y1Egger/heurekAstar)**
-Python-Spiel (Pygame) mit A*-gesteuertem Gegner-NPC und einem Modus, der den eigenen Weg gegen den optimalen A*-Pfad vergleicht. Fun-Project neben der Vorlesung "Introduction to AI".
+**[Stammdaten](https://github.com/Y1Egger/stammdaten-dq-dashboard)** — Data Quality Dashboard nach ISO/IEC 25012
+Prüfung des Wiener Baumkatasters (232.608 Datensätze) gegen 15 Regeln zu Vollständigkeit, Genauigkeit, Konsistenz und Glaubwürdigkeit. Von der Rohdatei über SQL-Profiling und regelbasierte Validierung bis zum Dashboard mit Drill-through auf die betroffenen Datensätze. Python, DuckDB, Great Expectations, Power BI.
 
-**[AcademicInsight Bot](https://github.com/Y1Egger/academic-insight-bot)**
-KI-gestützte Web-App zur automatisierten Analyse und Zusammenfassung wissenschaftlicher Paper mittels LLMs (Groq API). Entwickelt zur Unterstützung meiner Bachelorarbeit.
+**[AcademicInsight Bot](https://github.com/Y1Egger/academic-insight-bot)** — LLM-gestützte Verarbeitung wissenschaftlicher Paper
+Web-App, die unstrukturierte PDFs einliest, über die Groq API auswertet und strukturiert ausgibt. Entwickelt zur Unterstützung meiner Bachelorarbeit.
+
+**[HeurekA*](https://github.com/Y1Egger/heurekAstar)** — Pathfinding mit A*
+Python-Spiel (Pygame) mit A*-gesteuertem Gegner-NPC und einem Modus, der den eigenen Weg gegen den optimalen A*-Pfad vergleicht. Fun-Project neben der Vorlesung "Introduction to AI".
 
 ---
 
